@@ -1,3 +1,7 @@
+// TODO:
+//  - Fix birthdate month/day selection glitch
+//  - Auto-redeem gamepass codes
+
 require('dotenv').config()
 
 const puppeteer = require('puppeteer-extra')
