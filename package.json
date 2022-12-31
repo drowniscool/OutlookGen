@@ -9,14 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zennolab_com/capmonstercloud-client": "^0.0.15",
-    "2captcha": "^3.0.5",
     "chalk": "^4.1.2",
     "chance": "^1.1.9",
     "dotenv": "^16.0.3",
     "puppeteer": "^19.4.1",
     "puppeteer-extra": "^3.3.4",
-    "puppeteer-extra-plugin-capsolver": "^1.0.0",
     "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
 }
