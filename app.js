@@ -39,6 +39,6 @@ function getRandomProxy() {
   output.success('Successfully accessed CapSolver account!', `$${balance}`)
 
   await account.init({
-    headless: false
+    headless: true
   })
 })();
