@@ -15,7 +15,7 @@ class account {
     this.name = name
 
     this.birthday = {
-      formatted: `${(birthday.getMonth() + 1 ).toString()}/${birthday.getDay().toString()}/${birthday.getFullYear().toString()}`,
+      formatted: `${(birthday.getMonth() + 1 ).toString()}/${birthday.getDate().toString()}/${birthday.getFullYear().toString()}`,
       raw: birthday
     }
 
